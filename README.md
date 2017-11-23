@@ -1,10 +1,11 @@
 Pig Latin Translator
 =============
-[![Latest Stable Version](https://poser.pugx.org/{package}/v/stable)](https://packagist.org/packages/{package})
-[![License](https://poser.pugx.org/{package}/license)](https://packagist.org/packages/{package})
-[![Total Downloads](https://poser.pugx.org/{package}/downloads)](https://packagist.org/packages/{package})
-[![Monthly Downloads](https://poser.pugx.org/{package}/d/monthly)](https://packagist.org/packages/{package})
-[![Daily Downloads](https://poser.pugx.org/{package}/d/daily)](https://packagist.org/packages/{package})
+[![Build Status](https://travis-ci.org/ianlchapman/PigLatinTranslator.svg?branch=master)](https://travis-ci.org/ianlchapman/PigLatinTranslator)
+[![Latest Stable Version](https://poser.pugx.org/ianlchapman/pig-latin-translator/v/stable)](https://packagist.org/packages/ianlchapman/pig-latin-translator)
+[![Total Downloads](https://poser.pugx.org/ianlchapman/pig-latin-translator/downloads)](https://packagist.org/packages/ianlchapman/pig-latin-translator)
+[![Latest Unstable Version](https://poser.pugx.org/ianlchapman/pig-latin-translator/v/unstable)](https://packagist.org/packages/ianlchapman/pig-latin-translator)
+[![License](https://poser.pugx.org/ianlchapman/pig-latin-translator/license)](https://packagist.org/packages/ianlchapman/pig-latin-translator)
+
 
 Pig Latin Translator for PHP
 
