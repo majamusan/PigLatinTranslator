@@ -22,13 +22,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist {package} "*"
+php composer.phar require --prefer-dist ianlchapman/pig-latin-translator "*"
 ```
 
 or add
 
 ```
-"{package}": "*"
+"ianlchapman/pig-latin-translator": "*"
 ```
 
 to the require section of your `composer.json` file.
