@@ -10,13 +10,13 @@
 A Pig Latin translator that converts English words and sentences in to Pig Latin written using PHP.
 
 
-##Features
+Features
 ------------
 * Translates English in to Pig Latin following the rules outlined on [wikipedia](https://en.wikipedia.org/wiki/Pig_Latin#Rules)
 * Handles sentences that contain the following punctuation elements: .,!?()
 * Suite of unit tests
 
-##Installation
+Installation
 ------------
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
@@ -36,10 +36,10 @@ or add
 to the require section of your `composer.json` file.
 
 
-##Usage
+Usage
 -----
 
-###Translate a single word
+Translate a single word
 ```php
 use IanLChapman\PigLatinTranslator\Parser;
 
@@ -47,7 +47,7 @@ $translator = new Parser();
 $translation = $translator->translate('String');
 ```
 
-###Translate a sentence
+Translate a sentence
 ```php
 use IanLChapman\PigLatinTranslator\Parser;
 
