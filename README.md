@@ -1,4 +1,4 @@
-#Pig Latin Translator
+Pig Latin Translator
 =============
 [![Build Status](https://travis-ci.org/ianlchapman/PigLatinTranslator.svg?branch=master)](https://travis-ci.org/ianlchapman/PigLatinTranslator)
 [![Latest Stable Version](https://poser.pugx.org/ianlchapman/pig-latin-translator/v/stable)](https://packagist.org/packages/ianlchapman/pig-latin-translator)
