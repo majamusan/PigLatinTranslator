@@ -2,7 +2,7 @@ Hyphenated Pig Latin Translator
 =============
 
 
-A hyphenated version of [ianlchapman's PigLatinTranslator](https://github.com/ianlchapman/PigLatinTranslator), note phpunit tests not updated 
+A hyphenated version of [ianlchapman's PigLatinTranslator](https://github.com/ianlchapman/PigLatinTranslator), note phpunit tests not updated.
 
 Installation
 -----
