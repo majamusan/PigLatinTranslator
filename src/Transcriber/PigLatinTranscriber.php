@@ -63,7 +63,7 @@ class PigLatinTranscriber extends BaseTranscriber
      */
     private function actionVowelTranslation(string $string) : string
     {
-        return $string . $this->vowelSuffix;
+        return $string .'-'. $this->vowelSuffix;
     }
 
     /**
@@ -76,7 +76,7 @@ class PigLatinTranscriber extends BaseTranscriber
         $matches = [];
         if (preg_match('/^([^aeiou]*)([aeiou]*.*)$/i', $string, $matches)) {
             if (ctype_upper(substr($string, 0, 1))) {
-                return ucwords(strtolower($matches[2] . $matches[1] . 'ay'));
+                return ucwords(strtolower($matches[2] .'-'. $matches[1] . 'ay'));
             }
             
             return $matches[2] .'-'. strtolower($matches[1]) . 'ay';
