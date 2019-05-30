@@ -79,7 +79,7 @@ class PigLatinTranscriber extends BaseTranscriber
                 return ucwords(strtolower($matches[2] . $matches[1] . 'ay'));
             }
             
-            return $matches[2] . strtolower($matches[1]) . 'ay';
+            return $matches[2] .'-'. strtolower($matches[1]) . 'ay';
         }
     }
 }
