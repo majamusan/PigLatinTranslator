@@ -1,11 +1,11 @@
 {
-    "name": "ianlchapman/pig-latin-translator",
+    "name": "majamusan/pig-latin-translator",
     "description": "A translation system to convert to and from Pig Latin",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ian Chapman",
-            "email": "ian.l.chapman87@gmail.com"
+            "name": "Jamie",
+            "email": "jamiemac@gmail.com"
         }
     ],
     "require": {
